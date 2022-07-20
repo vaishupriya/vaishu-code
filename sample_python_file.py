@@ -1,7 +1,7 @@
 print('hello world')
 num = 5
 if num < 10:
-	print('small')
+	print('small number')
 else:
-	print('big')
+	print('big number')
 
